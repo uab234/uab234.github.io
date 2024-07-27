@@ -1,0 +1,45 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+/* Default (Light) Theme Styles */
+.header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    padding: 10px;
+    background: var(--header-background, #fff); /* Fallback to white if variable is not set */
+    box-shadow: 0 4px 1px -2px var(--header-shadow, rgba(0, 0, 0, 0.1)); /* Fallback shadow */
+    color: var(--header-text-color, #000); /* Fallback text color */
+}
+
+/* Light theme variables */
+body.light .header {
+    --header-background: #d8d8d8; /* White background for light theme */
+    --header-text-color: #000; /* Black text color for light theme */
+    --header-shadow: rgba(0, 0, 0, 0.1); /* Subtle shadow for light theme */
+}
+
+/* Dark theme variables */
+body.dark .header {
+    --header-background: #1d1e20; /* Dark background for dark theme */
+    --header-text-color: #fff; /* White text color for dark theme */
+    --header-shadow: rgba(0, 0, 0, 0.3); /* More pronounced shadow for dark theme */
+}
+
+.profile img {
+    border-radius: 50%; /* Squircle shape */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    object-fit: fit;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 2px solid #fff; /* Adds a white border */
+}
+
+.profile img:hover {
+transform: scale(1.1);
+box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); /* Enhances shadow on hover */
+}
+  
