@@ -1,0 +1,35 @@
+<div class="carousel-container">
+    <div class="carousel">
+        {{ .Inner }}
+    </div>
+</div>
+<style>
+.carousel-container {
+    overflow: hidden;
+    width: 100%;
+}
+.carousel {
+    display: flex;
+    flex-direction: row;
+    transition: transform 0.5s ease-in-out;
+}
+.carousel img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px;
+}
+</style>
+<script>
+let currentIndex = 0;
+const carousel = document.querySelector('.carousel');
+const images = carousel.querySelectorAll('img');
+const totalImages = images.length;
+
+function showNextImage() {
+    currentIndex = (currentIndex + 1) % totalImages;
+    const translateX = -currentIndex * (images[0].clientWidth + 10); // 10 is the margin-right value
+    carousel.style.transform = `translateX(${translateX}px)`;
+}
+
+setInterval(showNextImage, 5000);
+</script>

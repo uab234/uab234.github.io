@@ -1,0 +1,35 @@
+<!-- layouts/shortcodes/gallery.html -->
+<style>
+    .gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    
+    .gallery-item {
+        flex: 1 1 calc(33.333% - 10px);
+        box-sizing: border-box;
+    }
+    
+    .gallery-item img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    .gallery-caption {
+        text-align: center;
+        margin-top: 5px;
+    }
+    </style>
+    
+    <div class="gallery">
+        {{ range .Params.images }}
+        <div class="gallery-item">
+            <img src="{{ .src }}" alt="{{ .alt }}" width="{{ .width }}" height="{{ .height }}">
+            {{ if .caption }}
+            <div class="gallery-caption">{{ .caption }}</div>
+            {{ end }}
+        </div>
+        {{ end }}
+    </div>
+    
