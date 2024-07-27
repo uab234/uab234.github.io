@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Umar</title>
+    <link>https://uab.github.io/blog/</link>
+    <description>Recent content in Blogs on Umar</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-us</language>
+    <atom:link href="https://uab.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The roadmap to tech entry levels</title>
+      <link>https://uab.github.io/blog/roadmap-tech-entry-level/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uab.github.io/blog/roadmap-tech-entry-level/</guid>
+      <description>Interested in technology but no idea where to start.</description>
+    </item>
+    <item>
+      <title>Protect your privacy no matter what!</title>
+      <link>https://uab.github.io/blog/protect-your-privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uab.github.io/blog/protect-your-privacy/</guid>
+      <description>The guides of how to protect your privacy while using tech gadgets</description>
+    </item>
+    <item>
+      <title>Stop using .px instead use .rem</title>
+      <link>https://uab.github.io/blog/stop-using-px-in-your-website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uab.github.io/blog/stop-using-px-in-your-website/</guid>
+      <description>Why you should stop using px in your website project</description>
+    </item>
+    <item>
+      <title>The Futurist Tech Wold</title>
+      <link>https://uab.github.io/blog/the-futuristic-tech-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://uab.github.io/blog/the-futuristic-tech-world/</guid>
+      <description>What the world will look like in the near future</description>
+    </item>
+  </channel>
+</rss>
