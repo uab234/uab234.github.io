@@ -6,18 +6,20 @@ url: "/blog/the-futuristic-tech-world"
 weight: 100
 # aliases: ["/first"]
 # tags: ["first"]
-author: "Umar"
-# author: ["Me", "You"] # multiple authors
-showToc: true
+author: "Umar Abdullahi Bagwai"
+#author: ["Me", "You"] # multiple authors
+showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
-#canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://uab234.github.io/to/page"
+ShowCodeCopyButtons: true
+ShowShareButtons: true
 disableHLJS: true # to disable highlightjs
-disableShare: true
+disableShare: false
 disableHLJS: false
-hideSummary: true
+hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -31,21 +33,15 @@ cover:
     #alt: "eid celebration moon flyer" # alt text
     #caption: "Write a photo caption" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 
-editPost:
-    URL: "https://uab.github.io//blog/the-futuristic-tech-world"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+#editPost:
+    #URL: "https://uab234.github.io"
+    #Text: "Suggest Changes" # edit text
+    #appendFilePath: true # to append file path to Edit link
 ---
 
 ### The technology world future is started
 Content are coming soon!
 
 This is **bold** text, and this is *emphasized* text.
-
-![](/blog/eid-mubarak.png#center)
-
-## Links
-
-View [My Github](https://uab.github.io) Profile page!
