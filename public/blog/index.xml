@@ -2,38 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Umar</title>
-    <link>https://uab.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Umar</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <atom:link href="https://uab.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The roadmap to tech entry levels</title>
-      <link>https://uab.github.io/blog/roadmap-tech-entry-level/</link>
+      <title>Stop Using .px for font-size, embrace .rem for accessibility web design</title>
+      <link>http://localhost:1313/blog/stop-using-px-in-your-website-font-size/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/blog/roadmap-tech-entry-level/</guid>
-      <description>Interested in technology but no idea where to start.</description>
+      <guid>http://localhost:1313/blog/stop-using-px-in-your-website-font-size/</guid>
+      <description>In the evolving world of web design, flexibility and scalability are key. As we design for a multitude of devices and screen sizes, it&amp;rsquo;s essential to adopt practices that ensure our designs are both accessible and responsive. One crucial practice is the shift from using pixels (px) to root ems (rem) for defining font sizes in CSS. In this post, we&amp;rsquo;ll explore why using rem units can significantly enhance your web design projects and how to make the transition smoothly.</description>
     </item>
     <item>
-      <title>Protect your privacy no matter what!</title>
-      <link>https://uab.github.io/blog/protect-your-privacy/</link>
+      <title>Web development best practices: a comprehensive guide</title>
+      <link>http://localhost:1313/blog/web-development-best-practices-comprehensive-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/blog/protect-your-privacy/</guid>
-      <description>The guides of how to protect your privacy while using tech gadgets</description>
-    </item>
-    <item>
-      <title>Stop using .px instead use .rem</title>
-      <link>https://uab.github.io/blog/stop-using-px-in-your-website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/blog/stop-using-px-in-your-website/</guid>
-      <description>Why you should stop using px in your website project</description>
-    </item>
-    <item>
-      <title>The Futurist Tech Wold</title>
-      <link>https://uab.github.io/blog/the-futuristic-tech-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/blog/the-futuristic-tech-world/</guid>
-      <description>What the world will look like in the near future</description>
+      <guid>http://localhost:1313/blog/web-development-best-practices-comprehensive-guide/</guid>
+      <description>In about a decade of working as a web developer, I’ve seen the landscape of web development evolve dramatically. From the days of simple HTML websites to the complex, dynamic applications we build today, certain best practices have remained essential. These practices ensure that our websites are efficient, scalable, and provide a great user experience. Whether you’re a seasoned developer or just starting, adhering to these best practices will significantly improve your development process and the quality of your projects.</description>
     </item>
   </channel>
 </rss>

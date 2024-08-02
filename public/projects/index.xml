@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Umar</title>
-    <link>https://uab.github.io/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Umar</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <atom:link href="https://uab.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nigeria Bedfordshire Community</title>
-      <link>https://uab.github.io/projects/nigeria-bedfordshire-community/</link>
+      <link>http://localhost:1313/projects/nigeria-bedfordshire-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/nigeria-bedfordshire-community/</guid>
+      <guid>http://localhost:1313/projects/nigeria-bedfordshire-community/</guid>
       <description>A non-governmental organisation website, based in Bedsfordshire, England.</description>
     </item>
     <item>
       <title>Dynamic Housing Care &amp; Support</title>
-      <link>https://uab.github.io/projects/content/projects/dhcs-housing-care-uk/</link>
+      <link>http://localhost:1313/projects/content/projects/dhcs-housing-care-uk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/content/projects/dhcs-housing-care-uk/</guid>
+      <guid>http://localhost:1313/projects/content/projects/dhcs-housing-care-uk/</guid>
       <description>Dynamic Housing Care &amp;amp; Support is focused on offering a wide range of services to meet the needs of vulnerable individuals, either children or adults, with physical or mental health conditions, learning disabilities, and the elderly.</description>
     </item>
     <item>
       <title>AUK Radio Ltd</title>
-      <link>https://uab.github.io/projects/auk-radio-website/</link>
+      <link>http://localhost:1313/projects/auk-radio-website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/auk-radio-website/</guid>
+      <guid>http://localhost:1313/projects/auk-radio-website/</guid>
       <description>Online radio station based in Luton, United Kingdom.</description>
     </item>
     <item>
       <title>Xpress Personnel Solutions</title>
-      <link>https://uab.github.io/projects/xpress-personnel-solutions/</link>
+      <link>http://localhost:1313/projects/xpress-personnel-solutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/xpress-personnel-solutions/</guid>
+      <guid>http://localhost:1313/projects/xpress-personnel-solutions/</guid>
       <description>Xpress Personnel Solutions specialise in providing comprehensive recruitment solutions that help businesses find the right candidates for their needs.</description>
     </item>
     <item>
       <title>Ruman Food</title>
-      <link>https://uab.github.io/projects/ruman-food/</link>
+      <link>http://localhost:1313/projects/ruman-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/ruman-food/</guid>
+      <guid>http://localhost:1313/projects/ruman-food/</guid>
       <description>Food products and agricultural services for Africa.</description>
     </item>
     <item>
       <title>Time Span Bot for Telegram</title>
-      <link>https://uab.github.io/projects/time-span-bot-for-telegram/</link>
+      <link>http://localhost:1313/projects/time-span-bot-for-telegram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/time-span-bot-for-telegram/</guid>
+      <guid>http://localhost:1313/projects/time-span-bot-for-telegram/</guid>
       <description>Calculate date differences with ease! @timespan_bot helps track time for projects, events, and your age!</description>
     </item>
     <item>
       <title>Usearch Mobile App</title>
-      <link>https://uab.github.io/projects/usearch-mobile-app/</link>
+      <link>http://localhost:1313/projects/usearch-mobile-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/usearch-mobile-app/</guid>
+      <guid>http://localhost:1313/projects/usearch-mobile-app/</guid>
       <description>Mobile application for on-demand home services and chores powered by Usearch Technologies Ltd.</description>
     </item>
     <item>
       <title>Protect Project</title>
-      <link>https://uab.github.io/projects/protect-project/</link>
+      <link>http://localhost:1313/projects/protect-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/protect-project/</guid>
+      <guid>http://localhost:1313/projects/protect-project/</guid>
       <description>A non-governmental organisation website.</description>
     </item>
     <item>
       <title>NoLimit</title>
-      <link>https://uab.github.io/projects/nolimit-internet-service-company/</link>
+      <link>http://localhost:1313/projects/nolimit-internet-service-company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/nolimit-internet-service-company/</guid>
+      <guid>http://localhost:1313/projects/nolimit-internet-service-company/</guid>
       <description>24 hours unlimited Internet Service</description>
     </item>
     <item>
       <title>Airplaces Nigeria</title>
-      <link>https://uab.github.io/projects/business-listing-airplaces-nigeria/</link>
+      <link>http://localhost:1313/projects/business-listing-airplaces-nigeria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/business-listing-airplaces-nigeria/</guid>
+      <guid>http://localhost:1313/projects/business-listing-airplaces-nigeria/</guid>
       <description>A business listing mobile app based in Nigeria.</description>
     </item>
     <item>
       <title>Q&amp;A Social Platform</title>
-      <link>https://uab.github.io/projects/questions-and-answers-social-platform/</link>
+      <link>http://localhost:1313/projects/questions-and-answers-social-platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/questions-and-answers-social-platform/</guid>
+      <guid>http://localhost:1313/projects/questions-and-answers-social-platform/</guid>
       <description></description>
     </item>
   </channel>
