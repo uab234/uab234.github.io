@@ -2,118 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uab.github.io/projects/nigeria-bedfordshire-community/</loc>
+    <loc>http://localhost:1313/blog/stop-using-px-in-your-website-font-size/</loc>
   </url><url>
-    <loc>https://uab.github.io/experience/software-developer-it-consultant/</loc>
+    <loc>http://localhost:1313/blog/web-development-best-practices-comprehensive-guide/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/content/projects/dhcs-housing-care-uk/</loc>
+    <loc>http://localhost:1313/projects/nigeria-bedfordshire-community/</loc>
   </url><url>
-    <loc>https://uab.github.io/experience/senior-software-developer/</loc>
+    <loc>http://localhost:1313/experience/software-developer-it-consultant/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/auk-radio-website/</loc>
+    <loc>http://localhost:1313/projects/content/projects/dhcs-housing-care-uk/</loc>
   </url><url>
-    <loc>https://uab.github.io/experience/mobile-app-developer/</loc>
+    <loc>http://localhost:1313/experience/senior-software-developer/</loc>
   </url><url>
-    <loc>https://uab.github.io/experience/system-administration/</loc>
+    <loc>http://localhost:1313/projects/auk-radio-website/</loc>
   </url><url>
-    <loc>https://uab.github.io/experience/it-support-specialist/</loc>
+    <loc>http://localhost:1313/experience/mobile-app-developer/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/xpress-personnel-solutions/</loc>
+    <loc>http://localhost:1313/experience/system-administration/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/ruman-food/</loc>
+    <loc>http://localhost:1313/experience/it-support-specialist/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/time-span-bot-for-telegram/</loc>
+    <loc>http://localhost:1313/projects/xpress-personnel-solutions/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/usearch-mobile-app/</loc>
+    <loc>http://localhost:1313/projects/ruman-food/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/protect-project/</loc>
+    <loc>http://localhost:1313/projects/time-span-bot-for-telegram/</loc>
   </url><url>
-    <loc>https://uab.github.io/blog/roadmap-tech-entry-level/</loc>
+    <loc>http://localhost:1313/projects/usearch-mobile-app/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/nolimit-internet-service-company/</loc>
+    <loc>http://localhost:1313/projects/protect-project/</loc>
   </url><url>
-    <loc>https://uab.github.io/blog/protect-your-privacy/</loc>
+    <loc>http://localhost:1313/projects/nolimit-internet-service-company/</loc>
   </url><url>
-    <loc>https://uab.github.io/blog/stop-using-px-in-your-website/</loc>
+    <loc>http://localhost:1313/projects/business-listing-airplaces-nigeria/</loc>
   </url><url>
-    <loc>https://uab.github.io/blog/the-futuristic-tech-world/</loc>
+    <loc>http://localhost:1313/projects/questions-and-answers-social-platform/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/business-listing-airplaces-nigeria/</loc>
+    <loc>http://localhost:1313/tags/android/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/questions-and-answers-social-platform/</loc>
+    <loc>http://localhost:1313/blog/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/android/</loc>
+    <loc>http://localhost:1313/tags/bot/</loc>
   </url><url>
-    <loc>https://uab.github.io/blog/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/bot/</loc>
+    <loc>http://localhost:1313/tags/cms/</loc>
   </url><url>
-    <loc>https://uab.github.io/categories/</loc>
+    <loc>http://localhost:1313/tags/contract/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/cms/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/contract/</loc>
+    <loc>http://localhost:1313/tags/dart/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/css/</loc>
+    <loc>http://localhost:1313/tags/developer/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/dart/</loc>
+    <loc>http://localhost:1313/experience/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/developer/</loc>
+    <loc>http://localhost:1313/tags/flutter/</loc>
   </url><url>
-    <loc>https://uab.github.io/experience/</loc>
+    <loc>http://localhost:1313/tags/freelance/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/flutter/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/freelance/</loc>
+    <loc>http://localhost:1313/tags/html/</loc>
   </url><url>
-    <loc>https://uab.github.io/contact/</loc>
+    <loc>http://localhost:1313/tags/ios/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/html/</loc>
+    <loc>http://localhost:1313/tags/it-support/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/ios/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/it-support/</loc>
+    <loc>http://localhost:1313/tags/landingpage/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/maintenance/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/landingpage/</loc>
+    <loc>http://localhost:1313/tags/mobile/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/maintenance/</loc>
+    <loc>http://localhost:1313/tags/mobile-application/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/mobile/</loc>
+    <loc>http://localhost:1313/tags/mysql/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/mobile-application/</loc>
+    <loc>http://localhost:1313/tags/php/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/mysql/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/php/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
   </url><url>
-    <loc>https://uab.github.io/projects/</loc>
+    <loc>http://localhost:1313/tags/restapi/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/python/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/restapi/</loc>
+    <loc>http://localhost:1313/tags/security/</loc>
   </url><url>
-    <loc>https://uab.github.io/search/</loc>
+    <loc>http://localhost:1313/tags/system-administration/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/security/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/system-administration/</loc>
+    <loc>http://localhost:1313/tags/telegram/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/troubleshooting/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/telegram/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/troubleshooting/</loc>
+    <loc>http://localhost:1313/tags/web/</loc>
   </url><url>
-    <loc>https://uab.github.io/</loc>
+    <loc>http://localhost:1313/tags/website/</loc>
   </url><url>
-    <loc>https://uab.github.io/tags/web/</loc>
-  </url><url>
-    <loc>https://uab.github.io/tags/website/</loc>
-  </url><url>
-    <loc>https://uab.github.io/tags/website/</loc>
-  </url><url>
-    <loc>https://uab.github.io/tags/wordpress/</loc>
+    <loc>http://localhost:1313/tags/wordpress/</loc>
   </url>
 </urlset>

@@ -2,30 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MySQL on Umar</title>
-    <link>https://uab.github.io/tags/mysql/</link>
+    <link>http://localhost:1313/tags/mysql/</link>
     <description>Recent content in MySQL on Umar</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <atom:link href="https://uab.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nigeria Bedfordshire Community</title>
-      <link>https://uab.github.io/projects/nigeria-bedfordshire-community/</link>
+      <link>http://localhost:1313/projects/nigeria-bedfordshire-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/nigeria-bedfordshire-community/</guid>
+      <guid>http://localhost:1313/projects/nigeria-bedfordshire-community/</guid>
       <description>A non-governmental organisation website, based in Bedsfordshire, England.</description>
     </item>
     <item>
-      <title>Xpress Personnel Solutions</title>
-      <link>https://uab.github.io/projects/xpress-personnel-solutions/</link>
+      <title>Dynamic Housing Care &amp; Support</title>
+      <link>http://localhost:1313/projects/content/projects/dhcs-housing-care-uk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/xpress-personnel-solutions/</guid>
+      <guid>http://localhost:1313/projects/content/projects/dhcs-housing-care-uk/</guid>
+      <description>Dynamic Housing Care &amp;amp; Support is focused on offering a wide range of services to meet the needs of vulnerable individuals, either children or adults, with physical or mental health conditions, learning disabilities, and the elderly.</description>
+    </item>
+    <item>
+      <title>Xpress Personnel Solutions</title>
+      <link>http://localhost:1313/projects/xpress-personnel-solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/xpress-personnel-solutions/</guid>
       <description>Xpress Personnel Solutions specialise in providing comprehensive recruitment solutions that help businesses find the right candidates for their needs.</description>
     </item>
     <item>
       <title>Q&amp;A Social Platform</title>
-      <link>https://uab.github.io/projects/questions-and-answers-social-platform/</link>
+      <link>http://localhost:1313/projects/questions-and-answers-social-platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/questions-and-answers-social-platform/</guid>
+      <guid>http://localhost:1313/projects/questions-and-answers-social-platform/</guid>
       <description></description>
     </item>
   </channel>

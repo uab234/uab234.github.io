@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Android on Umar</title>
-    <link>https://uab.github.io/tags/android/</link>
+    <link>http://localhost:1313/tags/android/</link>
     <description>Recent content in Android on Umar</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <atom:link href="https://uab.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mobile App Developer</title>
-      <link>https://uab.github.io/experience/mobile-app-developer/</link>
+      <link>http://localhost:1313/experience/mobile-app-developer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/experience/mobile-app-developer/</guid>
+      <guid>http://localhost:1313/experience/mobile-app-developer/</guid>
       <description>Cyapex digital solutions is a small start-up company providing automated solution to businesses of various sizes, with a focus on small and medium local businesses.</description>
     </item>
     <item>
       <title>IT Support Specialist</title>
-      <link>https://uab.github.io/experience/it-support-specialist/</link>
+      <link>http://localhost:1313/experience/it-support-specialist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/experience/it-support-specialist/</guid>
+      <guid>http://localhost:1313/experience/it-support-specialist/</guid>
       <description>Aerialview Concept Communication &amp;amp; Business Partners Ltd. | Mar 2014 - Apr 2015 </description>
     </item>
     <item>
       <title>Usearch Mobile App</title>
-      <link>https://uab.github.io/projects/usearch-mobile-app/</link>
+      <link>http://localhost:1313/projects/usearch-mobile-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/usearch-mobile-app/</guid>
+      <guid>http://localhost:1313/projects/usearch-mobile-app/</guid>
       <description>Mobile application for on-demand home services and chores powered by Usearch Technologies Ltd.</description>
     </item>
     <item>
       <title>Airplaces Nigeria</title>
-      <link>https://uab.github.io/projects/business-listing-airplaces-nigeria/</link>
+      <link>http://localhost:1313/projects/business-listing-airplaces-nigeria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/business-listing-airplaces-nigeria/</guid>
+      <guid>http://localhost:1313/projects/business-listing-airplaces-nigeria/</guid>
       <description>A business listing mobile app based in Nigeria.</description>
     </item>
   </channel>

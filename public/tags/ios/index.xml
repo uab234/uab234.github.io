@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IOS on Umar</title>
-    <link>https://uab.github.io/tags/ios/</link>
+    <link>http://localhost:1313/tags/ios/</link>
     <description>Recent content in IOS on Umar</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <atom:link href="https://uab.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Usearch Mobile App</title>
-      <link>https://uab.github.io/projects/usearch-mobile-app/</link>
+      <link>http://localhost:1313/projects/usearch-mobile-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/usearch-mobile-app/</guid>
+      <guid>http://localhost:1313/projects/usearch-mobile-app/</guid>
       <description>Mobile application for on-demand home services and chores powered by Usearch Technologies Ltd.</description>
     </item>
     <item>
       <title>Airplaces Nigeria</title>
-      <link>https://uab.github.io/projects/business-listing-airplaces-nigeria/</link>
+      <link>http://localhost:1313/projects/business-listing-airplaces-nigeria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://uab.github.io/projects/business-listing-airplaces-nigeria/</guid>
+      <guid>http://localhost:1313/projects/business-listing-airplaces-nigeria/</guid>
       <description>A business listing mobile app based in Nigeria.</description>
     </item>
   </channel>
