@@ -5,7 +5,7 @@ url: "/projects/xpress-personnel-solutions"
 #date: "2024-07-21T15:09:01+01:00"
 draft: false
 weight: 50
-tags: ["Contract", Website", "CMS", "WordPress", "PHP", "MySQL"]
+tags: ["Contract", "Website", "CMS", "WordPress", "PHP", "MySQL"]
 
 cover:
     image: "projects/xpresspersonnel.png" # image path/url

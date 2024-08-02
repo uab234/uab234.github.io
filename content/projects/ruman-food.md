@@ -5,7 +5,7 @@ url: "/projects/ruman-food"
 #date: "2024-07-21T15:09:01+01:00"
 draft: false
 weight: 60
-tags: ["Freelance", "LandingPage"]
+tags: ["Freelance", "LandingPage", "HTML", "CSS"]
 
 cover:
     image: "projects/rumanfood.png" # image path/url

@@ -5,7 +5,7 @@ url: "/projects/nigeria-bedfordshire-community"
 #date: "2024-07-21T15:08:51+01:00"
 draft: false
 weight: 10
-tags: ["Freelance", "Website", "WordPress", "PHP", "MySQL"]
+tags: ["Freelance", "Website", "HTML", "CSS", "JavaScript", "PHP", "MySQL"]
 
 cover:
     image: "projects/nbccic.png" # image path/url

@@ -5,7 +5,7 @@ url: "/projects/auk-radio-website"
 #date: "2024-07-21T15:08:51+01:00"
 draft: false
 weight: 30
-tags: ["Website", "WordPress", "PHP"]
+tags: ["Website", "HTML", "CSS", "JavaScript", "PHP"]
 
 cover:
     image: "projects/aukradio.png" # image path/url

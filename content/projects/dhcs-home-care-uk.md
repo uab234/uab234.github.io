@@ -5,7 +5,7 @@ url: "/projects/content/projects/dhcs-housing-care-uk"
 #date: "2024-07-21T15:09:01+01:00"
 draft: false
 weight: 20
-tags: ["Freelance", "Website", "WordPress", "PHP"]
+tags: ["Freelance", "Website", "HTML", "CSS", "PHP", "MySQL"]
 
 cover:
     image: "projects/dhcs.png" # image path/url
