@@ -6,7 +6,7 @@ url: "/blog/web-development-best-practices-comprehensive-guide"
 weight: 2
 # aliases: ["/first"]
 # tags: ["first"]
-author: "Umar Abdullahi Bagwai"
+author: "Umar"
 #author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
@@ -30,7 +30,7 @@ UseHugoToc: true
 ShareButtons: ["linkedin", "twitter"] # To customize which share buttons to be enabled on page
 
 cover:
-    imageUrl: "/blog/eid-mubarak.png" # image path/url
+    imageUrl: "/blog/coming-soon.jpg" # image path/url
     #alt: "eid celebration moon flyer" # alt text
     #caption: "Write a photo caption" # display caption under cover
     relative: false # when using page bundles set this to true

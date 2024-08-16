@@ -1,11 +1,5 @@
 ---
-title: "Get-in touch"
-description: "Feel free to write me an email, I will get back to you ASAP."
+title: "Contact Me"
+description: "Want to get in-touch, feel free to reach out by filling out this form."
 layout: "contact"
-url: "/contact"
-#summary: "contact"
-#placeholder: "placeholder text in search input box"
 ---
-
-## Under development
-This page is under development.

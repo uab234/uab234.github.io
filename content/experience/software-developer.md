@@ -9,7 +9,7 @@ weight: 10
 tags: ["Web", "Mobile", "Developer"]
 
 cover:
-    image: "/projects/eid-mubarak.png>" # image path/url
+    image: "/projects/coming-soon.jpg>" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true

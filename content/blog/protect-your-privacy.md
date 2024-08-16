@@ -6,7 +6,7 @@ url: "/blog/protect-your-privacy"
 weight: 100
 # aliases: ["/first"]
 # tags: ["first"]
-author: "Umar Abdullahi Bagwai"
+author: "Umar"
 #author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
@@ -29,7 +29,7 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 
 cover:
-    imageUrl: "/blog/eid-mubarak.png" # image path/url
+    imageUrl: "/blog/coming-soon.jpg" # image path/url
     #alt: "eid celebration moon flyer" # alt text
     #caption: "Write a photo caption" # display caption under cover
     relative: false # when using page bundles set this to true
