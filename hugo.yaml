@@ -6,28 +6,28 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: "Umar Abdullahi Bagwai" # optional default will be site title
-    subtitle: "Senior Software Developer"
-    description: "High-achiever, and continuous learner, Software Developer 
-    specialise in web & mobile app development, building customer-focused solutions 
-    that drive business growth."
-    imageUrl: "/home/uab.jpeg" # optional
+    title: "Umar Abdullahi B" # optional default will be site title
+    subtitle: "Software Developer"
+    description: "High-achiever, and continuous learner, Software Developer specialise in web & mobile app development, building customer-focused solutions that drive business growth."
+    imageUrl: "/home/uab.png" # optional
     imageTitle: "Umar Photo" # optional
-    imageWidth: 240 # 120 custom size
-    imageHeight: 245 # 120 custom size
+    imageWidth: 150 # 120 custom size
+    imageHeight: 170 # 120 custom size
     #defaultTheme: auto # dark, light
     #disableAnchoredHeadings: false
+    displayFullLangName: true
+    enableEmoji: true
     
     buttons:
       - name: Contact
         url: /contact
 
     assets:
-    favicon: "/favicon.ico"
-    favicon16x16: "favicon/favicon-16x16.png"
-    favicon32x32: "favicon/favicon-32x32.png"
-    apple_touch_icon: "favicon/apple-touch-icon.png"
-    safari_pinned_tab: "favicon/favicon.ico"
+      favicon: "/favicon.ico"
+      favicon16x16: "/favicon/favicon-16x16.png"
+      favicon32x32: "/favicon/favicon-32x32.png"
+      apple_touch_icon: "/favicon/apple-touch-icon.png"
+      safari_pinned_tab: "/favicon/favicon.ico"
   
   socialIcons: # optional
     - name: "Github"
@@ -36,8 +36,6 @@ params:
       url: "https://linkedin.com/in/uab234"
     - name: "CV"
       url: "#"
-    - name: "Email"
-      url: "mailto:uab234@proton.me"
 
 # NAV-MENU
 menu:
@@ -63,7 +61,7 @@ menu:
     #  weight: 60
     #- identifier: wiki
     #  name: Wiki
-    # url: https://wiki.org
+    # url: https://wikipedia.org
     # weight: 70
 
 outputs:
@@ -72,4 +70,3 @@ outputs:
     - RSS
     - JSON # necessary for search
 
-    
