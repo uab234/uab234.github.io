@@ -48,6 +48,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/cms/</loc>
   </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/contract/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/css/</loc>
@@ -61,8 +63,6 @@
     <loc>http://localhost:1313/tags/flutter/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/freelance/</loc>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/html/</loc>
   </url><url>

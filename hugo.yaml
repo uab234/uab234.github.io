@@ -6,9 +6,9 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: "Umar Abdullahi B" # optional default will be site title
+    title: "Umar Abdullahi" # optional default will be site title
     subtitle: "Software Developer"
-    description: "High-achiever, and continuous learner, Software Developer specialise in web & mobile app development, building customer-focused solutions that drive business growth."
+    description: "High-achiever, and ultra-learner, Senior Software Developer specialise in web & mobile app development, building customer-focused solutions that drive business growth."
     imageUrl: "/home/uab.png" # optional
     imageTitle: "Umar Photo" # optional
     imageWidth: 150 # 120 custom size
@@ -34,8 +34,8 @@ params:
       url: "https://github.com/uab234"
     - name: "LinkedIn"
       url: "https://linkedin.com/in/uab234"
-    - name: "CV"
-      url: "#"
+    #- name: "CV"
+    #  url: "#"
 
 # NAV-MENU
 menu:

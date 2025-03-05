@@ -31,17 +31,18 @@ body.dark .header {
 }
 
 .profile img {
-    border-radius: 40%; /* Squircle shape */
+    border-radius: 25%; /* Squircle shape */
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     object-fit: fit;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border: 2px solid #fff; /* Adds a white border */
+    border: 1px solid #fff; /* Adds a white border */
 }
 
-.profile img:hover {
-transform: scale(1.1);
-box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); /* Enhances shadow on hover */
-}
+/* Hover effect */
+/*.profile img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); /* Enhances shadow on hover */
+/*    } */
 
 .navbar {
     background-color: #ffffff; /* Background color for the navbar */
@@ -112,3 +113,44 @@ box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); /* Enhances shadow on hover */
         margin: 10px 0;
     }
 }
+
+/* Contact Form Container */
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f9f9f9;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  /* Form Labels */
+  .contact-form label {
+    margin-top: 1em;
+    display: block;
+  }
+  
+  /* Form Inputs and Textarea */
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 0.5em;
+    margin-top: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  /* Submit Button */
+  .submit-button {
+    margin-top: 1em;
+    padding: 0.5em;
+    color: #fff;
+    background-color: #0c9ba2;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #31c1c9;
+  }
